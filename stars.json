@@ -1,25 +1,31 @@
 [
   {
+    "full_name": "calendso/calendso",
+    "stargazers_count": 6616,
+    "open_issues_count": 88,
+    "forks_count": 590
+  },
+  {
     "full_name": "swc-project/swc",
-    "stargazers_count": 15105,
-    "open_issues_count": 151,
+    "stargazers_count": 15117,
+    "open_issues_count": 153,
     "forks_count": 413
   },
   {
     "full_name": "jpochyla/psst",
-    "stargazers_count": 5626,
-    "open_issues_count": 55,
+    "stargazers_count": 5632,
+    "open_issues_count": 54,
     "forks_count": 118
   },
   {
     "full_name": "lostdesign/linked",
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 13,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "Kholid060/projectile",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -37,20 +43,20 @@
   },
   {
     "full_name": "react-syntax-highlighter/react-syntax-highlighter",
-    "stargazers_count": 2276,
+    "stargazers_count": 2277,
     "open_issues_count": 76,
     "forks_count": 187
   },
   {
     "full_name": "seanmonstar/warp",
-    "stargazers_count": 5328,
+    "stargazers_count": 5332,
     "open_issues_count": 160,
     "forks_count": 496
   },
   {
     "full_name": "imbhargav5/rooks",
-    "stargazers_count": 1787,
-    "open_issues_count": 25,
+    "stargazers_count": 1789,
+    "open_issues_count": 26,
     "forks_count": 120
   },
   {
@@ -61,25 +67,25 @@
   },
   {
     "full_name": "semi-technologies/weaviate",
-    "stargazers_count": 1726,
+    "stargazers_count": 1732,
     "open_issues_count": 58,
     "forks_count": 85
   },
   {
     "full_name": "exhibitionist-digital/ultra",
-    "stargazers_count": 1186,
+    "stargazers_count": 1203,
     "open_issues_count": 2,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
     "stargazers_count": 23420,
     "open_issues_count": 40,
-    "forks_count": 1760
+    "forks_count": 1761
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 21826,
+    "stargazers_count": 21838,
     "open_issues_count": 15,
     "forks_count": 1512
   },
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "primer/octicons",
-    "stargazers_count": 6923,
+    "stargazers_count": 6924,
     "open_issues_count": 53,
-    "forks_count": 696
+    "forks_count": 695
   },
   {
     "full_name": "lukas-w/font-logos",
@@ -109,21 +115,21 @@
   },
   {
     "full_name": "ibraheemdev/modern-unix",
-    "stargazers_count": 16297,
+    "stargazers_count": 16306,
     "open_issues_count": 44,
-    "forks_count": 349
+    "forks_count": 351
   },
   {
     "full_name": "linuxdotexe/nordic-wallpapers",
-    "stargazers_count": 261,
+    "stargazers_count": 262,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 22798,
-    "open_issues_count": 8,
-    "forks_count": 433
+    "stargazers_count": 22823,
+    "open_issues_count": 9,
+    "forks_count": 434
   },
   {
     "full_name": "wooorm/franc",
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "danmactough/node-feedparser",
-    "stargazers_count": 1908,
+    "stargazers_count": 1909,
     "open_issues_count": 19,
     "forks_count": 212
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49409,
+    "stargazers_count": 49427,
     "open_issues_count": 14,
-    "forks_count": 4223
+    "forks_count": 4224
   },
   {
     "full_name": "aniftyco/next-saas",
@@ -151,19 +157,19 @@
   },
   {
     "full_name": "ueberdosis/tiptap",
-    "stargazers_count": 12609,
-    "open_issues_count": 140,
-    "forks_count": 1140
+    "stargazers_count": 12620,
+    "open_issues_count": 128,
+    "forks_count": 1141
   },
   {
     "full_name": "masonlr/obsidian-starter-templates",
-    "stargazers_count": 261,
+    "stargazers_count": 262,
     "open_issues_count": 0,
     "forks_count": 68
   },
   {
     "full_name": "andymatuschak/orbit",
-    "stargazers_count": 1213,
+    "stargazers_count": 1215,
     "open_issues_count": 58,
     "forks_count": 29
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 41,
     "open_issues_count": 11,
     "forks_count": 4
-  },
-  {
-    "full_name": "lukasz-madon/awesome-remote-job",
-    "stargazers_count": 20933,
-    "open_issues_count": 11,
-    "forks_count": 2073
   }
 ]
