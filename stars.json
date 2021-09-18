@@ -1,20 +1,20 @@
 [
   {
     "full_name": "calendso/calendso",
-    "stargazers_count": 6616,
-    "open_issues_count": 88,
-    "forks_count": 590
+    "stargazers_count": 6928,
+    "open_issues_count": 85,
+    "forks_count": 604
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 15117,
-    "open_issues_count": 153,
+    "stargazers_count": 15152,
+    "open_issues_count": 154,
     "forks_count": 413
   },
   {
     "full_name": "jpochyla/psst",
-    "stargazers_count": 5632,
-    "open_issues_count": 54,
+    "stargazers_count": 5650,
+    "open_issues_count": 55,
     "forks_count": 118
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "Kholid060/projectile",
-    "stargazers_count": 50,
+    "stargazers_count": 53,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "react-syntax-highlighter/react-syntax-highlighter",
-    "stargazers_count": 2277,
+    "stargazers_count": 2279,
     "open_issues_count": 76,
     "forks_count": 187
   },
   {
     "full_name": "seanmonstar/warp",
-    "stargazers_count": 5332,
-    "open_issues_count": 160,
+    "stargazers_count": 5335,
+    "open_issues_count": 161,
     "forks_count": 496
   },
   {
     "full_name": "imbhargav5/rooks",
-    "stargazers_count": 1789,
+    "stargazers_count": 1792,
     "open_issues_count": 26,
     "forks_count": 120
   },
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "semi-technologies/weaviate",
-    "stargazers_count": 1732,
+    "stargazers_count": 1737,
     "open_issues_count": 58,
     "forks_count": 85
   },
   {
     "full_name": "exhibitionist-digital/ultra",
-    "stargazers_count": 1203,
+    "stargazers_count": 1240,
     "open_issues_count": 2,
     "forks_count": 16
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 23420,
+    "stargazers_count": 23427,
     "open_issues_count": 40,
     "forks_count": 1761
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 21838,
+    "stargazers_count": 21857,
     "open_issues_count": 15,
-    "forks_count": 1512
+    "forks_count": 1514
   },
   {
     "full_name": "fredoist/typiform",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "primer/octicons",
-    "stargazers_count": 6924,
+    "stargazers_count": 6926,
     "open_issues_count": 53,
-    "forks_count": 695
+    "forks_count": 696
   },
   {
     "full_name": "lukas-w/font-logos",
-    "stargazers_count": 290,
+    "stargazers_count": 291,
     "open_issues_count": 7,
     "forks_count": 63
   },
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "ibraheemdev/modern-unix",
-    "stargazers_count": 16306,
+    "stargazers_count": 16311,
     "open_issues_count": 44,
     "forks_count": 351
   },
   {
     "full_name": "linuxdotexe/nordic-wallpapers",
-    "stargazers_count": 262,
+    "stargazers_count": 267,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 22823,
-    "open_issues_count": 9,
-    "forks_count": 434
+    "stargazers_count": 22853,
+    "open_issues_count": 10,
+    "forks_count": 439
   },
   {
     "full_name": "wooorm/franc",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49427,
+    "stargazers_count": 49449,
     "open_issues_count": 14,
-    "forks_count": 4224
+    "forks_count": 4225
   },
   {
     "full_name": "aniftyco/next-saas",
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "ueberdosis/tiptap",
-    "stargazers_count": 12620,
-    "open_issues_count": 128,
-    "forks_count": 1141
+    "stargazers_count": 12644,
+    "open_issues_count": 130,
+    "forks_count": 1145
   },
   {
     "full_name": "masonlr/obsidian-starter-templates",
     "stargazers_count": 262,
     "open_issues_count": 0,
-    "forks_count": 68
+    "forks_count": 67
   },
   {
     "full_name": "andymatuschak/orbit",
-    "stargazers_count": 1215,
+    "stargazers_count": 1216,
     "open_issues_count": 58,
     "forks_count": 29
   },
   {
     "full_name": "bhall2001/serverless-nextjs-github-ci-cd",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 11,
     "forks_count": 4
   }
