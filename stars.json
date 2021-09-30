@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "kb24x7/rustyvibes",
+    "stargazers_count": 6,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
+    "full_name": "open-sauced/open-sauced",
+    "stargazers_count": 492,
+    "open_issues_count": 31,
+    "forks_count": 143
+  },
+  {
+    "full_name": "MichaelBarney/LinkFree",
+    "stargazers_count": 308,
+    "open_issues_count": 4,
+    "forks_count": 212
+  },
+  {
+    "full_name": "lenadroid/awesome-oss-mentors",
+    "stargazers_count": 486,
+    "open_issues_count": 3,
+    "forks_count": 74
+  },
+  {
     "full_name": "FormidableLabs/prism-react-renderer",
     "stargazers_count": 1108,
     "open_issues_count": 19,
@@ -7,45 +31,45 @@
   },
   {
     "full_name": "ai/nanocolors",
-    "stargazers_count": 847,
+    "stargazers_count": 872,
     "open_issues_count": 1,
-    "forks_count": 23
+    "forks_count": 25
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 7621,
-    "open_issues_count": 78,
+    "stargazers_count": 7628,
+    "open_issues_count": 77,
     "forks_count": 778
   },
   {
     "full_name": "shuding/nextra",
-    "stargazers_count": 2217,
-    "open_issues_count": 75,
-    "forks_count": 262
+    "stargazers_count": 2220,
+    "open_issues_count": 76,
+    "forks_count": 265
   },
   {
     "full_name": "AriaMinaei/theatre",
-    "stargazers_count": 3783,
-    "open_issues_count": 4,
-    "forks_count": 73
+    "stargazers_count": 3939,
+    "open_issues_count": 7,
+    "forks_count": 75
   },
   {
     "full_name": "jwngr/sdow",
-    "stargazers_count": 1381,
+    "stargazers_count": 1383,
     "open_issues_count": 12,
     "forks_count": 62
   },
   {
     "full_name": "brunosimon/doom-portal-in-webgl",
-    "stargazers_count": 51,
+    "stargazers_count": 61,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "react-grid-layout/react-grid-layout",
-    "stargazers_count": 14255,
-    "open_issues_count": 113,
-    "forks_count": 1966
+    "stargazers_count": 14272,
+    "open_issues_count": 111,
+    "forks_count": 1967
   },
   {
     "full_name": "AmarShaked/ReactWeather",
@@ -67,20 +91,20 @@
   },
   {
     "full_name": "temporalio/temporal",
-    "stargazers_count": 2634,
-    "open_issues_count": 214,
+    "stargazers_count": 2641,
+    "open_issues_count": 218,
     "forks_count": 210
   },
   {
     "full_name": "churichard/notabase",
-    "stargazers_count": 157,
-    "open_issues_count": 3,
-    "forks_count": 11
+    "stargazers_count": 159,
+    "open_issues_count": 2,
+    "forks_count": 13
   },
   {
     "full_name": "JetBrains/ring-ui",
     "stargazers_count": 2806,
-    "open_issues_count": 5,
+    "open_issues_count": 8,
     "forks_count": 160
   },
   {
@@ -91,25 +115,25 @@
   },
   {
     "full_name": "calendso/calendso",
-    "stargazers_count": 7998,
-    "open_issues_count": 94,
-    "forks_count": 673
+    "stargazers_count": 8019,
+    "open_issues_count": 71,
+    "forks_count": 681
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 15354,
-    "open_issues_count": 151,
-    "forks_count": 427
+    "stargazers_count": 15379,
+    "open_issues_count": 152,
+    "forks_count": 428
   },
   {
     "full_name": "jpochyla/psst",
-    "stargazers_count": 5716,
-    "open_issues_count": 56,
+    "stargazers_count": 5720,
+    "open_issues_count": 57,
     "forks_count": 118
   },
   {
     "full_name": "lostdesign/linked",
-    "stargazers_count": 133,
+    "stargazers_count": 135,
     "open_issues_count": 13,
     "forks_count": 15
   },
@@ -133,50 +157,26 @@
   },
   {
     "full_name": "react-syntax-highlighter/react-syntax-highlighter",
-    "stargazers_count": 2295,
+    "stargazers_count": 2296,
     "open_issues_count": 76,
-    "forks_count": 187
+    "forks_count": 188
   },
   {
     "full_name": "seanmonstar/warp",
-    "stargazers_count": 5375,
+    "stargazers_count": 5378,
     "open_issues_count": 162,
-    "forks_count": 499
+    "forks_count": 500
   },
   {
     "full_name": "imbhargav5/rooks",
-    "stargazers_count": 1828,
+    "stargazers_count": 1832,
     "open_issues_count": 28,
     "forks_count": 122
   },
   {
     "full_name": "nphivu414/game-store-monorepo-app",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 0,
     "forks_count": 20
-  },
-  {
-    "full_name": "semi-technologies/weaviate",
-    "stargazers_count": 1766,
-    "open_issues_count": 60,
-    "forks_count": 87
-  },
-  {
-    "full_name": "exhibitionist-digital/ultra",
-    "stargazers_count": 1440,
-    "open_issues_count": 2,
-    "forks_count": 23
-  },
-  {
-    "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 23472,
-    "open_issues_count": 43,
-    "forks_count": 1766
-  },
-  {
-    "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 22013,
-    "open_issues_count": 14,
-    "forks_count": 1529
   }
 ]
