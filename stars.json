@@ -1,21 +1,21 @@
 [
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 35632,
-    "open_issues_count": 350,
-    "forks_count": 2715
+    "stargazers_count": 35670,
+    "open_issues_count": 352,
+    "forks_count": 2716
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 36192,
-    "open_issues_count": 776,
-    "forks_count": 25874
+    "stargazers_count": 36209,
+    "open_issues_count": 763,
+    "forks_count": 25889
   },
   {
     "full_name": "buildspace/buildspace-projects",
-    "stargazers_count": 236,
-    "open_issues_count": 9,
-    "forks_count": 77
+    "stargazers_count": 241,
+    "open_issues_count": 14,
+    "forks_count": 80
   },
   {
     "full_name": "TryGhost/Dawn",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "kentcdodds/mdx-bundler",
-    "stargazers_count": 743,
-    "open_issues_count": 21,
-    "forks_count": 40
+    "stargazers_count": 744,
+    "open_issues_count": 22,
+    "forks_count": 41
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 2695,
-    "open_issues_count": 33,
+    "stargazers_count": 2698,
+    "open_issues_count": 32,
     "forks_count": 100
   },
   {
     "full_name": "leerob/leerob.io",
-    "stargazers_count": 2331,
-    "open_issues_count": 7,
-    "forks_count": 479
+    "stargazers_count": 2348,
+    "open_issues_count": 8,
+    "forks_count": 478
   },
   {
     "full_name": "kb24x7/rustyvibes",
@@ -50,14 +50,14 @@
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 497,
-    "open_issues_count": 28,
+    "open_issues_count": 25,
     "forks_count": 144
   },
   {
     "full_name": "MichaelBarney/LinkFree",
     "stargazers_count": 327,
     "open_issues_count": 4,
-    "forks_count": 240
+    "forks_count": 241
   },
   {
     "full_name": "lenadroid/awesome-oss-mentors",
@@ -73,31 +73,31 @@
   },
   {
     "full_name": "ai/nanocolors",
-    "stargazers_count": 932,
+    "stargazers_count": 930,
     "open_issues_count": 0,
-    "forks_count": 26
+    "forks_count": 25
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 7726,
-    "open_issues_count": 80,
-    "forks_count": 793
+    "stargazers_count": 7731,
+    "open_issues_count": 78,
+    "forks_count": 794
   },
   {
     "full_name": "shuding/nextra",
-    "stargazers_count": 2250,
-    "open_issues_count": 76,
-    "forks_count": 274
+    "stargazers_count": 2251,
+    "open_issues_count": 75,
+    "forks_count": 273
   },
   {
     "full_name": "AriaMinaei/theatre",
-    "stargazers_count": 4328,
-    "open_issues_count": 8,
-    "forks_count": 87
+    "stargazers_count": 4371,
+    "open_issues_count": 11,
+    "forks_count": 88
   },
   {
     "full_name": "jwngr/sdow",
-    "stargazers_count": 1392,
+    "stargazers_count": 1393,
     "open_issues_count": 12,
     "forks_count": 62
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "react-grid-layout/react-grid-layout",
-    "stargazers_count": 14336,
-    "open_issues_count": 112,
-    "forks_count": 1979
+    "stargazers_count": 14341,
+    "open_issues_count": 115,
+    "forks_count": 1982
   },
   {
     "full_name": "AmarShaked/ReactWeather",
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "temporalio/temporal",
-    "stargazers_count": 2737,
-    "open_issues_count": 218,
-    "forks_count": 221
+    "stargazers_count": 2750,
+    "open_issues_count": 219,
+    "forks_count": 223
   },
   {
     "full_name": "churichard/notabase",
     "stargazers_count": 186,
-    "open_issues_count": 6,
+    "open_issues_count": 9,
     "forks_count": 18
   },
   {
@@ -157,19 +157,19 @@
   },
   {
     "full_name": "calendso/calendso",
-    "stargazers_count": 8266,
-    "open_issues_count": 82,
+    "stargazers_count": 8301,
+    "open_issues_count": 80,
     "forks_count": 716
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 15630,
-    "open_issues_count": 173,
-    "forks_count": 441
+    "stargazers_count": 15648,
+    "open_issues_count": 176,
+    "forks_count": 442
   },
   {
     "full_name": "jpochyla/psst",
-    "stargazers_count": 5778,
+    "stargazers_count": 5786,
     "open_issues_count": 67,
     "forks_count": 121
   },
