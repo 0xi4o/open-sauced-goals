@@ -1,13 +1,13 @@
 [
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 13697,
-    "open_issues_count": 444,
-    "forks_count": 1218
+    "stargazers_count": 13780,
+    "open_issues_count": 442,
+    "forks_count": 1225
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 517,
+    "stargazers_count": 521,
     "open_issues_count": 25,
     "forks_count": 147
   },
@@ -15,30 +15,30 @@
     "full_name": "shuding/nextra",
     "stargazers_count": 2286,
     "open_issues_count": 76,
-    "forks_count": 281
+    "forks_count": 282
   },
   {
     "full_name": "Kholid060/projectile",
-    "stargazers_count": 70,
+    "stargazers_count": 71,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 16354,
-    "open_issues_count": 181,
-    "forks_count": 454
+    "stargazers_count": 16455,
+    "open_issues_count": 180,
+    "forks_count": 458
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 9798,
-    "open_issues_count": 143,
-    "forks_count": 575
+    "stargazers_count": 9815,
+    "open_issues_count": 146,
+    "forks_count": 579
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 75378,
-    "open_issues_count": 1274,
-    "forks_count": 14933
+    "stargazers_count": 75571,
+    "open_issues_count": 1288,
+    "forks_count": 14963
   }
 ]
