@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "six-ddc/plow",
+    "stargazers_count": 2457,
+    "open_issues_count": 4,
+    "forks_count": 75
+  },
+  {
     "full_name": "radix-ui/primitives",
-    "stargazers_count": 2005,
-    "open_issues_count": 77,
+    "stargazers_count": 2059,
+    "open_issues_count": 75,
     "forks_count": 68
   },
   {
     "full_name": "ahmadawais/Emoji-Log",
-    "stargazers_count": 713,
+    "stargazers_count": 714,
     "open_issues_count": 4,
     "forks_count": 60
   },
@@ -25,45 +31,45 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 36204,
+    "stargazers_count": 36260,
     "open_issues_count": 334,
-    "forks_count": 2748
+    "forks_count": 2753
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 36477,
-    "open_issues_count": 746,
-    "forks_count": 26026
+    "stargazers_count": 36499,
+    "open_issues_count": 733,
+    "forks_count": 26046
   },
   {
     "full_name": "buildspace/buildspace-projects",
-    "stargazers_count": 428,
+    "stargazers_count": 430,
     "open_issues_count": 13,
-    "forks_count": 132
+    "forks_count": 133
   },
   {
     "full_name": "TryGhost/Dawn",
-    "stargazers_count": 186,
+    "stargazers_count": 187,
     "open_issues_count": 1,
     "forks_count": 150
   },
   {
     "full_name": "kentcdodds/mdx-bundler",
-    "stargazers_count": 797,
-    "open_issues_count": 23,
-    "forks_count": 42
+    "stargazers_count": 800,
+    "open_issues_count": 21,
+    "forks_count": 43
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 2731,
-    "open_issues_count": 32,
+    "stargazers_count": 2742,
+    "open_issues_count": 33,
     "forks_count": 100
   },
   {
     "full_name": "leerob/leerob.io",
-    "stargazers_count": 2508,
+    "stargazers_count": 2539,
     "open_issues_count": 9,
-    "forks_count": 498
+    "forks_count": 502
   },
   {
     "full_name": "kb24x7/rustyvibes",
@@ -73,13 +79,13 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 529,
+    "stargazers_count": 536,
     "open_issues_count": 25,
-    "forks_count": 150
+    "forks_count": 151
   },
   {
     "full_name": "MichaelBarney/LinkFree",
-    "stargazers_count": 337,
+    "stargazers_count": 339,
     "open_issues_count": 10,
     "forks_count": 247
   },
@@ -103,39 +109,39 @@
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 7936,
+    "stargazers_count": 7956,
     "open_issues_count": 80,
-    "forks_count": 815
+    "forks_count": 816
   },
   {
     "full_name": "shuding/nextra",
-    "stargazers_count": 2294,
+    "stargazers_count": 2300,
     "open_issues_count": 77,
-    "forks_count": 288
+    "forks_count": 289
   },
   {
     "full_name": "AriaMinaei/theatre",
-    "stargazers_count": 4587,
+    "stargazers_count": 4642,
     "open_issues_count": 14,
     "forks_count": 95
   },
   {
     "full_name": "jwngr/sdow",
-    "stargazers_count": 1399,
+    "stargazers_count": 1401,
     "open_issues_count": 12,
     "forks_count": 62
   },
   {
     "full_name": "brunosimon/doom-portal-in-webgl",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "react-grid-layout/react-grid-layout",
-    "stargazers_count": 14426,
+    "stargazers_count": 14434,
     "open_issues_count": 116,
-    "forks_count": 1995
+    "forks_count": 1996
   },
   {
     "full_name": "AmarShaked/ReactWeather",
@@ -157,14 +163,14 @@
   },
   {
     "full_name": "temporalio/temporal",
-    "stargazers_count": 2872,
-    "open_issues_count": 228,
-    "forks_count": 235
+    "stargazers_count": 2883,
+    "open_issues_count": 230,
+    "forks_count": 236
   },
   {
     "full_name": "churichard/notabase",
     "stargazers_count": 237,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 19
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 2822,
     "open_issues_count": 9,
     "forks_count": 161
-  },
-  {
-    "full_name": "ptedeschi/NFT.net",
-    "stargazers_count": 38,
-    "open_issues_count": 0,
-    "forks_count": 5
   }
 ]
