@@ -1,44 +1,50 @@
 [
   {
+    "full_name": "nosir/obelisk.js",
+    "stargazers_count": 2209,
+    "open_issues_count": 6,
+    "forks_count": 108
+  },
+  {
     "full_name": "prisma/prisma-examples",
-    "stargazers_count": 2935,
+    "stargazers_count": 2938,
     "open_issues_count": 77,
-    "forks_count": 735
+    "forks_count": 738
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 33884,
-    "open_issues_count": 645,
-    "forks_count": 2392
+    "stargazers_count": 33965,
+    "open_issues_count": 657,
+    "forks_count": 2401
   },
   {
     "full_name": "vercel/examples",
-    "stargazers_count": 316,
+    "stargazers_count": 325,
     "open_issues_count": 14,
-    "forks_count": 45
+    "forks_count": 48
   },
   {
     "full_name": "joehillen/sysz",
-    "stargazers_count": 1064,
+    "stargazers_count": 1069,
     "open_issues_count": 1,
     "forks_count": 12
   },
   {
     "full_name": "notifirehq/notifire",
-    "stargazers_count": 2625,
-    "open_issues_count": 37,
-    "forks_count": 94
+    "stargazers_count": 2650,
+    "open_issues_count": 33,
+    "forks_count": 95
   },
   {
     "full_name": "six-ddc/plow",
-    "stargazers_count": 2537,
+    "stargazers_count": 2542,
     "open_issues_count": 3,
     "forks_count": 76
   },
   {
     "full_name": "radix-ui/primitives",
-    "stargazers_count": 2273,
-    "open_issues_count": 76,
+    "stargazers_count": 2301,
+    "open_issues_count": 74,
     "forks_count": 74
   },
   {
@@ -61,45 +67,45 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 36543,
-    "open_issues_count": 343,
-    "forks_count": 2783
+    "stargazers_count": 36833,
+    "open_issues_count": 349,
+    "forks_count": 2797
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 36665,
-    "open_issues_count": 691,
-    "forks_count": 26124
+    "stargazers_count": 36698,
+    "open_issues_count": 702,
+    "forks_count": 26142
   },
   {
     "full_name": "buildspace/buildspace-projects",
-    "stargazers_count": 601,
-    "open_issues_count": 19,
+    "stargazers_count": 605,
+    "open_issues_count": 16,
     "forks_count": 187
   },
   {
     "full_name": "TryGhost/Dawn",
-    "stargazers_count": 189,
+    "stargazers_count": 188,
     "open_issues_count": 0,
-    "forks_count": 153
+    "forks_count": 152
   },
   {
     "full_name": "kentcdodds/mdx-bundler",
-    "stargazers_count": 814,
-    "open_issues_count": 23,
+    "stargazers_count": 817,
+    "open_issues_count": 21,
     "forks_count": 43
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 2781,
-    "open_issues_count": 39,
-    "forks_count": 104
+    "stargazers_count": 2784,
+    "open_issues_count": 40,
+    "forks_count": 105
   },
   {
     "full_name": "leerob/leerob.io",
-    "stargazers_count": 2672,
-    "open_issues_count": 9,
-    "forks_count": 539
+    "stargazers_count": 2683,
+    "open_issues_count": 8,
+    "forks_count": 540
   },
   {
     "full_name": "kb24x7/rustyvibes",
@@ -115,68 +121,62 @@
   },
   {
     "full_name": "MichaelBarney/LinkFree",
-    "stargazers_count": 347,
+    "stargazers_count": 350,
     "open_issues_count": 10,
-    "forks_count": 250
+    "forks_count": 251
   },
   {
     "full_name": "lenadroid/awesome-oss-mentors",
-    "stargazers_count": 489,
+    "stargazers_count": 490,
     "open_issues_count": 3,
     "forks_count": 76
   },
   {
     "full_name": "FormidableLabs/prism-react-renderer",
     "stargazers_count": 1154,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 119
   },
   {
     "full_name": "ai/nanocolors",
-    "stargazers_count": 935,
+    "stargazers_count": 934,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 8059,
-    "open_issues_count": 63,
-    "forks_count": 827
+    "stargazers_count": 8070,
+    "open_issues_count": 62,
+    "forks_count": 829
   },
   {
     "full_name": "shuding/nextra",
-    "stargazers_count": 2346,
+    "stargazers_count": 2353,
     "open_issues_count": 84,
-    "forks_count": 300
+    "forks_count": 299
   },
   {
     "full_name": "AriaMinaei/theatre",
-    "stargazers_count": 4775,
+    "stargazers_count": 4779,
     "open_issues_count": 14,
     "forks_count": 101
   },
   {
     "full_name": "jwngr/sdow",
-    "stargazers_count": 1401,
-    "open_issues_count": 13,
-    "forks_count": 62
+    "stargazers_count": 1400,
+    "open_issues_count": 14,
+    "forks_count": 63
   },
   {
     "full_name": "brunosimon/doom-portal-in-webgl",
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "react-grid-layout/react-grid-layout",
-    "stargazers_count": 14495,
+    "stargazers_count": 14507,
     "open_issues_count": 123,
-    "forks_count": 2001
-  },
-  {
-    "full_name": "AmarShaked/ReactWeather",
-    "stargazers_count": 5,
-    "open_issues_count": 2,
-    "forks_count": 2
+    "forks_count": 2006
   }
 ]
