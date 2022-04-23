@@ -7,9 +7,9 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1670,
-    "open_issues_count": 51,
-    "forks_count": 263
+    "stargazers_count": 1677,
+    "open_issues_count": 56,
+    "forks_count": 265
   },
   {
     "full_name": "defunkt/Zen",
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "nosir/obelisk.js",
-    "stargazers_count": 2236,
+    "stargazers_count": 2237,
     "open_issues_count": 6,
     "forks_count": 110
   },
   {
     "full_name": "prisma/prisma-examples",
-    "stargazers_count": 3485,
-    "open_issues_count": 71,
-    "forks_count": 897
+    "stargazers_count": 3494,
+    "open_issues_count": 69,
+    "forks_count": 899
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 40706,
-    "open_issues_count": 749,
-    "forks_count": 3192
+    "stargazers_count": 40850,
+    "open_issues_count": 741,
+    "forks_count": 3201
   },
   {
     "full_name": "vercel/examples",
-    "stargazers_count": 962,
-    "open_issues_count": 22,
-    "forks_count": 178
+    "stargazers_count": 974,
+    "open_issues_count": 24,
+    "forks_count": 179
   },
   {
     "full_name": "joehillen/sysz",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "notifirehq/notifire",
-    "stargazers_count": 3431,
+    "stargazers_count": 3440,
     "open_issues_count": 22,
-    "forks_count": 171
+    "forks_count": 172
   },
   {
     "full_name": "six-ddc/plow",
-    "stargazers_count": 2938,
+    "stargazers_count": 2941,
     "open_issues_count": 10,
-    "forks_count": 96
+    "forks_count": 97
   },
   {
     "full_name": "radix-ui/primitives",
-    "stargazers_count": 4133,
-    "open_issues_count": 99,
-    "forks_count": 133
+    "stargazers_count": 4165,
+    "open_issues_count": 102,
+    "forks_count": 134
   },
   {
     "full_name": "ahmadawais/Emoji-Log",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 39721,
-    "open_issues_count": 400,
-    "forks_count": 3004
+    "stargazers_count": 40177,
+    "open_issues_count": 404,
+    "forks_count": 3023
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 38631,
-    "open_issues_count": 790,
-    "forks_count": 27055
+    "stargazers_count": 38679,
+    "open_issues_count": 787,
+    "forks_count": 27075
   },
   {
     "full_name": "buildspace/buildspace-projects",
-    "stargazers_count": 1787,
-    "open_issues_count": 110,
-    "forks_count": 586
+    "stargazers_count": 1795,
+    "open_issues_count": 106,
+    "forks_count": 587
   },
   {
     "full_name": "TryGhost/Dawn",
@@ -109,39 +109,39 @@
   },
   {
     "full_name": "kentcdodds/mdx-bundler",
-    "stargazers_count": 1076,
+    "stargazers_count": 1082,
     "open_issues_count": 48,
     "forks_count": 59
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 3218,
+    "stargazers_count": 3227,
     "open_issues_count": 38,
     "forks_count": 134
   },
   {
     "full_name": "leerob/leerob.io",
-    "stargazers_count": 3479,
-    "open_issues_count": 15,
-    "forks_count": 684
+    "stargazers_count": 3492,
+    "open_issues_count": 17,
+    "forks_count": 685
   },
   {
     "full_name": "kb24x7/rustyvibes",
     "stargazers_count": 61,
-    "open_issues_count": 6,
-    "forks_count": 6
+    "open_issues_count": 2,
+    "forks_count": 7
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 641,
-    "open_issues_count": 14,
-    "forks_count": 224
+    "stargazers_count": 643,
+    "open_issues_count": 16,
+    "forks_count": 233
   },
   {
     "full_name": "MichaelBarney/LinkFree",
     "stargazers_count": 433,
     "open_issues_count": 12,
-    "forks_count": 296
+    "forks_count": 297
   },
   {
     "full_name": "lenadroid/awesome-oss-mentors",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "FormidableLabs/prism-react-renderer",
-    "stargazers_count": 1294,
+    "stargazers_count": 1298,
     "open_issues_count": 26,
-    "forks_count": 124
+    "forks_count": 123
   },
   {
     "full_name": "ai/nanocolors",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 9808,
-    "open_issues_count": 91,
-    "forks_count": 1087
+    "stargazers_count": 9839,
+    "open_issues_count": 88,
+    "forks_count": 1094
   },
   {
     "full_name": "shuding/nextra",
-    "stargazers_count": 3362,
-    "open_issues_count": 124,
-    "forks_count": 447
+    "stargazers_count": 3380,
+    "open_issues_count": 125,
+    "forks_count": 452
   },
   {
     "full_name": "AriaMinaei/theatre",
-    "stargazers_count": 5669,
-    "open_issues_count": 52,
+    "stargazers_count": 5678,
+    "open_issues_count": 51,
     "forks_count": 155
   }
 ]
